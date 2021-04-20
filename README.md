@@ -26,19 +26,19 @@
 
 <h3 algin="left">📱 Contact Me 🤗</h3>
 <p align="left">
-  <a href="mailto:hemanthhemu14319@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" width="90" /></a>
  <a href="https://linkedin.com/in/narsingojuhemanth" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="narsingojuhemanth" height="25" width="90" /></a>
-  <a href="mailto:narsingojuhemanth@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="25" width="90" /></a>
  <a href="https://wa.link/s4vwk7" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25" width="90" /></a>
+  <a href="mailto: hemanthhemu14319@gmail.com" ><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" width="90" /></a>
+  <a href="mailto: narsingojuhemanth@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="25" width="90" /></a>
  <a href="https://t.me/NarsingojuHemanth" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" width="90" /></a>
 </p>
 
 <h3 algin="left">👨👩 Social</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/narsingojuhemanth" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="narsingojuhemanth" height="25" width="90" /></a>
+  <a href="https://github.com/narsingojuhemanth" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="narsingojuhemanth" height="25" width="90" /></a> 
  <a href="https://twitter.com/narsingojuhemu" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="narsingojuhemu" height="25" width="90" /></a>
-<a href="https://linkedin.com/in/narsingojuhemanth" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="narsingojuhemanth" height="25" width="90" /></a>
  <a href="https://instagram.com/this_is_hemu" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="this_is_hemu" height="25" width="90" /></a>
- <a href="https://github.com/narsingojuhemanth" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="narsingojuhemanth" height="25" width="90" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
