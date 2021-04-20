@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **Coffee over Chai ☕**
 
-<h3 algin="left">📱 Contact Me 🤗</h3>
+<h3 algin="left">📱 Contact Me </h3>
 <p align="left">
  <a href="https://linkedin.com/in/narsingojuhemanth" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="narsingojuhemanth" height="25" width="90" /></a>
  <a href="https://wa.link/s4vwk7" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25" width="90" /></a>
@@ -33,7 +33,7 @@
  <a href="https://t.me/NarsingojuHemanth" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" width="90" /></a>
 </p>
 
-<h3 algin="left">👨👩 Social</h3>
+<h3 algin="left">👨👩 Social Links</h3>
 <p align="left">
   <a href="https://linkedin.com/in/narsingojuhemanth" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="narsingojuhemanth" height="25" width="90" /></a>
   <a href="https://github.com/narsingojuhemanth" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="narsingojuhemanth" height="25" width="90" /></a> 
@@ -41,7 +41,19 @@
  <a href="https://instagram.com/this_is_hemu" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="this_is_hemu" height="25" width="90" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🚀 Skills</h3>
+<p align="left">
+ 
+ 
+<p>
+
+<h3 align="left">💻 OS</h3>
+<p align="left">
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+ <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+ <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+ <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+ </p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=narsingojuhemanth&show_icons=true&locale=en&layout=compact" alt="narsingojuhemanth" /></p>
